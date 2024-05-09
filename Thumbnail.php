@@ -1,5 +1,4 @@
 <?php
-/*
 class Thumbnail {
     private $RealFileExtension = [
         "ffd8ffe0" => ["MIME" => "image/jpeg", "EXTENSION" => "jpeg"],
